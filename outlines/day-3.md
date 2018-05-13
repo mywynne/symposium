@@ -17,6 +17,7 @@
 - Web publishing discussion
 - Platform introductions and considerations
 - Scalar hands-on
+- [CDSC Scalar site](http://cdsc.libraries.wsu.edu/scalar/)A
 
 **Afternoon**
 
