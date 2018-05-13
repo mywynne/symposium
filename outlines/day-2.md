@@ -16,6 +16,7 @@
 
 - Mukurtu introduction
 - Mukurtu hands-on: 3Cs, DH, CR, user roles
+- http://cdsc.libraries.wsu.edu/PalouseDH/
 
 **Afternoon**
 
